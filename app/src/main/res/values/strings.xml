@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BackBenchers</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="title_activity_dashboard">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    //-- otp screen --->
+    <string name="otp_verification_text">Verification</string>
+    <string name="verify_code">Verify Code</string>
+
+</resources>

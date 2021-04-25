@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "370610983109",
+    "firebase_url": "https://backbenchershub-aeb1b-default-rtdb.firebaseio.com",
+    "project_id": "backbenchershub-aeb1b",
+    "storage_bucket": "backbenchershub-aeb1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370610983109:android:61cce54875647e4e4be0ac",
+        "android_client_info": {
+          "package_name": "coding.insight.cleanuiloginregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370610983109-ke48242j23agcpmar439hofmpjhcl24c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5kkJwU24Fpc-2_8806mneUiElpbwJDjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370610983109-ke48242j23agcpmar439hofmpjhcl24c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
