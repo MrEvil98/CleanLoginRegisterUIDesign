@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/profile_icon"
+            android:title="Profile" />
+
+    </group>
+
+
+    <group android:checkableBehavior="single">
+
+        <item android:title="Services">
+
+            <menu>
+
+                <item
+                    android:id="@+id/nav_auto"
+                    android:icon="@drawable/ic_baseline_assignment_24"
+                    android:title="Auto Attendance" />
+
+                <item
+                    android:id="@+id/nav_notes"
+                    android:icon="@drawable/notes_icon"
+                    android:title="Class Notes" />
+
+                <item
+                    android:id="@+id/nav_exam"
+                    android:icon="@drawable/exam_icon"
+                    android:title="Previous Exam Papers" />
+
+                <item
+                    android:id="@+id/nav_calender"
+                    android:icon="@drawable/ic_baseline_calendar_today_24"
+                    android:title="Calender" />
+
+            </menu>
+
+        </item>
+
+    </group>
+
+    <group android:checkableBehavior="single">
+
+        <item android:title="Others">
+
+            <menu>
+
+                <item
+                    android:id="@+id/nav_help"
+                    android:icon="@drawable/ic_baseline_help_24"
+                    android:title="Help" />
+
+                <item
+                    android:id="@+id/nav_share"
+                    android:icon="@drawable/share_icon"
+                    android:title="Share" />
+
+                <item
+                    android:id="@+id/nav_rateus"
+                    android:icon="@drawable/rateus_icon"
+                    android:title="Rate Us" />
+
+                <item
+                    android:id="@+id/nav_logout"
+                    android:icon="@drawable/logout_icon"
+                    android:title="Logout" />
+
+            </menu>
+
+        </item>
+
+    </group>
+
+
+</menu>
